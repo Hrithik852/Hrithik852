@@ -14,6 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hrithik852&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nx72yatvsbnx5cidw5lg2id7hm&unique={true|1|on|yes})
+###
 
 ###
 
